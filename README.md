@@ -1,2 +1,2 @@
 # HTML Basics
-In this repository i uploaded the basics of HTML into one file. Go check it in HTML Basics.html
+In this repository I uploaded the basics of HTML into one file. Go check it in HTML Basics.html
